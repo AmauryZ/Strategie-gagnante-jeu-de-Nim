@@ -127,26 +127,3 @@ def p_lignes(n,p):      # 'n' étant le nb de batonnets max par ligne et 'p' le 
     else:            
         
         return ("L'ordi 2 a perdu.")  # sinon, c'est l'ordi 2 qui a perdu
-        
-         
-     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
